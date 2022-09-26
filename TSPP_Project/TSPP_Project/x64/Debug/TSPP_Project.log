@@ -1,0 +1,7 @@
+﻿  TSPP_Project.cpp
+C:\Users\kolya\source\repos\TSPP_Project\TSPP_Project\TSPP_Project.cpp(86,5): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\kolya\source\repos\TSPP_Project\TSPP_Project\TSPP_Project.cpp(101,5): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\kolya\source\repos\TSPP_Project\TSPP_Project\TSPP_Project.cpp(116,5): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\kolya\source\repos\TSPP_Project\TSPP_Project\TSPP_Project.cpp(131,5): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\kolya\source\repos\TSPP_Project\TSPP_Project\TSPP_Project.cpp(175,5): warning C4551: в вызове функции отсутствует список аргументов
+  TSPP_Project.vcxproj -> C:\Users\kolya\source\repos\TSPP_Project\x64\Debug\TSPP_Project.exe
